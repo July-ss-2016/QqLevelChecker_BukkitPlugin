@@ -1,0 +1,7 @@
+name: QqLevelChecker
+main: vip.creeper.mcserverplugins.qqlevelchecker.QqLevelChecker
+author: July_ss
+version: 1.0.0
+depend: [CreeperQqBinder]
+commands:
+  qlc:
